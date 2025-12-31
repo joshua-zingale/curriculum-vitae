@@ -7,10 +7,10 @@ jzing002@ucr.edu | +1 (###) ###-#### | joshuazingale.net
 *Ph.D. in Computer Science* | *Expected May 2029*
 
 **University of California, Riverside** | Riverside, CA  
-*M.S. in Computer Science* | *Dec 2025*
+*M.S. in Computer Science* | *Dec 2025* | *GPA 4.0* 
 
 **San Diego State University** | San Diego, CA  
-*B.S. in Computer Science* | *May 2024*
+*B.S. in Computer Science* | *May 2024* | *GPA 4.0*
 
 * **Awards:** Most Outstanding Computer Science Graduate, Most Outstanding College of Sciences Graduate.
 
@@ -21,7 +21,7 @@ jzing002@ucr.edu | +1 (###) ###-#### | joshuazingale.net
 **University of California, Riverside** | Riverside, CA  
 *Teaching Assistant (Machine Organization)* | *July 2025 – Aug 2025*
 
-* **Lecturer Substitute:** Prepared and delivered lectures for two machine organization labs per week, effectively communicating complex low-level computing concepts to undergraduates.
+* **Lecturer:** Prepared and delivered lectures for two machine organization labs per week, effectively communicating complex low-level computing concepts to undergraduates.
 * **Assessment:** Conducted one-on-one student interviews to evaluate assembly code submissions, providing personalized feedback and ensuring deep understanding of course material.
 
 **San Diego State University** | San Diego, CA  
@@ -99,10 +99,21 @@ jzing002@ucr.edu | +1 (###) ###-#### | joshuazingale.net
 
 ---
 
+## Code Repositories
+
+
+- [Vector-graphics animation library](https://github.com/joshua-zingale/visuscript)
+- [Published novel NLG algorithm](https://github.com/joshua-zingale/plug-and-play-rst-ctg)
+- [Web server for grading embeddable activities](https://github.com/joshua-zingale/grader)
+- [Attendance taking web server](https://github.com/joshua-zingale/verified-attendance)
+- [Rust-based LC-3 assembler](https://github.com/joshua-zingale/lc3-rs/tree/master/src/asm) (WIP)
+
+---
+
 ## Technical Skills
 
 * **Languages:** Python, Rust, JavaScript, SQL, C, CUDA, C++, Assembly.
-* **Frameworks & Tools:** Flask, PyTorch, Hugging Face, REST APIs, Discord, Git/GitHub.
+* **Frameworks & Tools:** Flask, FastAPI, PyTorch, Hugging Face, REST APIs, Discord, Git/GitHub.
 * **Pedagogy:** Curriculum Development, Workshop Facilitation, Agile/Scrum Management, Didactic Content Creation.
 
 ---
