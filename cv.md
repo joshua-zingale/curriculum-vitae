@@ -103,10 +103,15 @@ jzing002@ucr.edu | +1 (###) ###-#### | joshuazingale.net
 
 
 - [Vector-graphics animation library](https://github.com/joshua-zingale/visuscript)
+    - Python
 - [Published novel NLG algorithm](https://github.com/joshua-zingale/plug-and-play-rst-ctg)
+    - Python, HuggingFace, PyTorch
 - [Web server for grading embeddable activities](https://github.com/joshua-zingale/grader)
+    - Go
 - [Attendance taking web server](https://github.com/joshua-zingale/verified-attendance)
-- [Rust-based LC-3 assembler](https://github.com/joshua-zingale/lc3-rs/tree/master/src/asm) (WIP)
+    - Python, Flask
+- [LC-3 assembler](https://github.com/joshua-zingale/lc3-rs/tree/master/src/asm) (WIP)
+    - Rust
 
 ---
 
